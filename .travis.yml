@@ -1,3 +1,17 @@
+# ----------------------------------------------------------------------------
+#
+# Package             : Traefik
+# Source Repo         : https://github.com/containous/traefik/
+# Travis Job Link     : https://travis-ci.com/github/santosh653/traefik
+# Created travis.yml  : No
+# Maintainer          : Santosh Kulkarni <santoshkulkarni70@gmail.com>
+#
+# Script License      : Apache License, Version 2 or later
+#
+# ----------------------------------------------------------------------------
+arch:
+ - amd64
+ - ppc64le
 sudo: required
 dist: trusty
 
